@@ -24,6 +24,7 @@ class _ProfilePageState extends State<ProfilePage> {
   final TextEditingController _newPasswordController = TextEditingController();
   final FirebaseAuth _auth = FirebaseAuth.instance;
   PlatformFile? pickedFile;
+
   String imageurl = "";
   UploadTask? uploadTask;
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
