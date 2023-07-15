@@ -4,12 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-Simply upload your ad, put in some cash, and let the interested buyers come to you
+This project is a starting point for a Flutter application.Simply upload your ad, put in some cash, and let the interested buyers come to you
 
-
-A few resources to get you started if this is your first Flutter project:
-
+Features of Olxi
 
 ● Login/SignUp through Firebase Auth.
 
